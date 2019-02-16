@@ -10,6 +10,7 @@ void setup() {
   pinMode(LedGiallo,OUTPUT);
   pinMode(LedVerde,OUTPUT);
   pinMode(LedBianco,OUTPUT);
+  RichiediTempo();
   
 }
 
